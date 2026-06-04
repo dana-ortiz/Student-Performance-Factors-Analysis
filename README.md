@@ -118,4 +118,4 @@ The linear regression model was selected as the final model because it had a low
 
 ### AI Use Disclosure
 
-AI tools were used during this project for README drafting. All final code, outputs, interpretations, and conclusions should be reviewed by the project author before submission.
+AI tools were used during this project for README drafting. All final code, outputs, interpretations, and conclusions are the work of the project author.
